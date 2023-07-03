@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+header h1{
+text-align:center;
+}
+#featured-property figure img{
+  place-items:center;
+}
+#featured-property figure img .alt{
+ font-size: small;
+ text-align: center;
+}
+header nav a{
+  padding-left:10px;
+  padding-right: 10px;
+  background-color: bisque;
+}
+#featured-property p{
+  width:800px;
+  text-align:center;
+  line-height: 20px;
+}
+#details div{
+  float:left;
+  background-color:bisque;
+  text-align:center; 
+  width: 25%;
+}
